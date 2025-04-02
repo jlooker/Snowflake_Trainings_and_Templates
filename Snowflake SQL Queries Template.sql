@@ -557,7 +557,7 @@
 
 
 	REVOKE SELECT ON VIEW <Database_Name>.<Schema_Name>.<Secure_View_Name>
-		TO SHARE SHARE_CHAINACCOUNT
+		FROM SHARE SHARE_CHAINACCOUNT
 	;
 
 
